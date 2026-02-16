@@ -48,14 +48,3 @@ const humayun = {
 };
 ```
 
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-**Open to collaboration and learning opportunities**
-
-<img src="https://komarev.com/ghpvc/?username=humayuu&color=3B82F6&style=for-the-badge" alt="Profile views" />
-
-</div>
