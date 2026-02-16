@@ -32,18 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humayuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humayuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ### 🚀 Current Focus
 
 ```javascript
