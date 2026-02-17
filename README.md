@@ -36,15 +36,16 @@
 
 ```javascript
 const humayun = {
-    code: ["PHP", "JavaScript", "SQL"],
-    technologies: {
-        backend: ["Laravel", "PHP"],
-        frontend: ["React", "HTML", "CSS"],
-        databases: ["MySQL"]
+    title: "Full-Stack Developer",
+    stack: {
+        backend: ["PHP", "Laravel"],
+        frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
+        database: ["MySQL"]
     },
-    currentFocus: "Building full-stack web applications",
+    focus: "Building scalable, secure, and maintainable web applications",
     learning: "Advanced Laravel & Modern JavaScript",
-    openTo: "Collaboration and new opportunities"
+    openTo: "Professional collaboration and growth opportunities"
 };
+
 ```
 
