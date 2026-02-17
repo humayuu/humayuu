@@ -30,22 +30,4 @@
 
 </div>
 
----
-
-### 🚀 Current Focus
-
-```javascript
-const humayun = {
-    title: "Full-Stack Developer",
-    stack: {
-        backend: ["PHP", "Laravel"],
-        frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3"],
-        database: ["MySQL"]
-    },
-    focus: "Building scalable, secure, and maintainable web applications",
-    learning: "Advanced Laravel & Modern JavaScript",
-    openTo: "Professional collaboration and growth opportunities"
-};
-
-```
 
