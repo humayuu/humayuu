@@ -1,14 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Humayun Ahmed
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Aspiring+Full-Stack+Developer;PHP+%7C+JavaScript+%7C+MySQL;Building+Modern+Web+Apps" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/humayuu?style=for-the-badge&logo=github&logoColor=white&color=3B82F6)](https://github.com/humayuu)
 [![Email](https://img.shields.io/badge/Email-humayun11998%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humayun11998@gmail.com)
 
 </div>
