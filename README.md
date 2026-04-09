@@ -9,7 +9,7 @@
 -  I build web apps with **Laravel on the backend** and **Tailwind CSS + JavaScript on the frontend**
 -  Open to collaborate on **open-source Laravel & PHP projects**
 -  Ask me about **PHP, Laravel, MySQL, JavaScript, React, Bootstrap & Tailwind CSS**
--  Reach me at: **humayun@email.com**
+-  Reach me at: **humayun11998@gmail.com**
 ---
 
 ### 🌐 Connect with me:
