@@ -4,14 +4,12 @@
 
 <br>
 
-- 🌱 Currently leveling up with **React.js & Modern JavaScript** — on my way to becoming a Full Stack Developer
-- 💼 Actively looking for my **first PHP / Laravel developer job** — open to opportunities!
-- 🔨 I build web apps with **Laravel on the backend** and **Tailwind CSS + JavaScript on the frontend**
-- 👯 Open to collaborate on **open-source Laravel & PHP projects**
-- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, React, Bootstrap & Tailwind CSS**
-- 📫 Reach me at: **humayun@email.com**
-- 📍 Based in **Karachi, Pakistan**
-
+- Currently leveling up with **React.js & Modern JavaScript** — on my way to becoming a Full Stack Developer
+-  Actively looking for my **first PHP / Laravel developer job** — open to opportunities!
+-  I build web apps with **Laravel on the backend** and **Tailwind CSS + JavaScript on the frontend**
+-  Open to collaborate on **open-source Laravel & PHP projects**
+-  Ask me about **PHP, Laravel, MySQL, JavaScript, React, Bootstrap & Tailwind CSS**
+-  Reach me at: **humayun@email.com**
 ---
 
 ### 🌐 Connect with me:
