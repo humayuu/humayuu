@@ -1,6 +1,6 @@
 # Hi 👋, I'm Humayun
 
-### PHP & Laravel Developer | Aspiring Full Stack Developer | Karachi, Pakistan
+### PHP & Laravel Developer | Aspiring Full Stack Developer
 
 <br>
 
