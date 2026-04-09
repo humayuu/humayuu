@@ -1,21 +1,22 @@
 # Hi 👋, I'm Humayun
 
-### PHP & Laravel Developer | Full Stack Web Developer
+### PHP & Laravel Developer | Aspiring Full Stack Developer | Karachi, Pakistan
 
-- 🌱 Currently learning **React.js & Laravel Filament** to level up my full-stack skills
+<br>
 
-- 💼 Looking for my **first PHP / Laravel developer job** — open to opportunities!
-
+- 🌱 Currently leveling up with **React.js & Modern JavaScript** — on my way to becoming a Full Stack Developer
+- 💼 Actively looking for my **first PHP / Laravel developer job** — open to opportunities!
+- 🔨 I build web apps with **Laravel on the backend** and **Tailwind CSS + JavaScript on the frontend**
 - 👯 Open to collaborate on **open-source Laravel & PHP projects**
-
-- 💬 Ask me about **PHP, Laravel, MySQL, Tailwind CSS, Bootstrap & JavaScript**
-
+- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, React, Bootstrap & Tailwind CSS**
 - 📫 Reach me at: **humayun@email.com**
+- 📍 Based in **Karachi, Pakistan**
+
 ---
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayun-ahmedd/)
 
 ---
 
@@ -34,7 +35,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Laravel Filament](https://img.shields.io/badge/Filament-e74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools:**
@@ -42,3 +42,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+
+![Humayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
