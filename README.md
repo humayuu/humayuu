@@ -1,4 +1,4 @@
-# Hi 👋, I'm Humayun
+# Hi, I'm Humayun
 
 ### PHP & Laravel Developer | Aspiring Full Stack Developer
 
